@@ -201,7 +201,7 @@ http://www.studywithanis.com
 
 <!-- html image -->
 
-<img  src="./images/IMG_20230809_000230.JPG" height="200" width="250" title="Profile Image md Fahad 😂"/>
+<img  src="./images/IMG_20230809_000230.JPG" height="200" width="250" title="Profile image"/>
 
 <br/>
 
