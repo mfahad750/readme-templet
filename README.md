@@ -196,12 +196,12 @@ http://www.studywithanis.com
 
 - ### Image syntex 
 <!-- Md image syntex -->
-![Profile](./images/IMG_20230809_000230.JPG)
+<!-- ![Profile](./images/IMG_20230809_000230.JPG) -->
 
 
 <!-- html image -->
 
-<img  src="./images/IMG_20230809_000230.JPG" height="200" width="250" title="Profile image"/>
+<img  src="./images/IMG_20230809_000230.jpg" height="200" width="250" title="Profile image"/>
 
 <br/>
 
